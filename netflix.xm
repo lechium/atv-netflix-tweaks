@@ -10,7 +10,10 @@
 
 //this is the 7.x stuff for now playing continuously
 
-/*
+
+
+%hook ATVFeedOptionDialogController
+
 
 - (void)wasPushed
 {
@@ -40,7 +43,7 @@
 
 %end
 
-*/
+
 
 //this right here will prevent the nag alert from showing, all that is necessary for that! :)
 

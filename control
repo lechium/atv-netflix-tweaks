@@ -1,0 +1,10 @@
+Architecture: iphoneos-arm
+Name: Netflix tweak
+Package: com.nito.netflix.tweak
+Version: 0.1
+Website: nitosoft.com
+Maintainer: nito
+Author: nito
+Description: skips nag dialog to update in iOS 5.3 in netflix, positioned to redirect netflix javascript link if 5.3 becomes obsoleted.
+Section: Utilities
+Depends: mobilesubstrate
